@@ -8,21 +8,32 @@ Welcome to my GitHub profile! Here you’ll find a collection of my projects, co
 
 - 🌱 I’m currently learning advanced data analysis techniques and machine learning.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mustafa-ayhan-88871)
-- ⚡ Fun fact: I love hiking and exploring new places in my free time.
+- ⚡ Fun fact: I love exploring new places in my free time.
 
 ## 🛠️ Skills & Tools
 
 ### Tech Stack:
 
-**Languages:**
-HTML5, CSS3, C#, C++, PHP, JavaScript
-
-**Frameworks & Libraries:**
-TailwindCSS, Laravel, Angular, React, P5.js, Electron.js
-
-**Platforms & Tools:**
-WordPress, Vercel, Apache, SQLite, MongoDB, MySQL
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-P5.js-ED225D?style=flat&logo=p5.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
 
 ## 📈 GitHub Stats
 
@@ -42,25 +53,5 @@ WordPress, Vercel, Apache, SQLite, MongoDB, MySQL
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mustafa-ayhan-88871)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
 
-## 💡 Projects & Highlights
-
-### Project 1: [Machine Learning Model](https://github.com/88871/machine-learning-model)
-A brief description of your project. Implemented various machine learning algorithms to predict outcomes based on input data. Utilized Python and scikit-learn.
-
-### Project 2: [React Portfolio](https://github.com/88871/react-portfolio)
-A brief description of your project. Developed a personal portfolio website using React and deployed it using GitHub Pages.
-
-### Project 3: [Data Analysis Toolkit](https://github.com/88871/data-analysis-toolkit)
-A brief description of your project. Created a toolkit for data analysis using Python, pandas, and Matplotlib to visualize data trends.
-
-## 🏆 Achievements
-
-- Recognized as a top contributor in several open-source projects.
-- Published articles on data science and web development in prominent tech blogs.
-
-## 📜 Licenses & Certifications
-
-- [Data Science Professional Certificate](https://www.coursera.org/professional-certificates/data-science)
-- [JavaScript Developer Certification](https://www.udemy.com/certificate/javascript-developer)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you’d like to collaborate on a project or just have a chat.
